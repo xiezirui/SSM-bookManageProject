@@ -1,0 +1,18 @@
+h3{
+    width: 180px;
+    height: 38px;
+
+    margin: 180px auto;
+    text-align: center;
+    line-height: 38px;
+
+    background-color: aqua;
+
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
